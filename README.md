@@ -1,2 +1,2 @@
 # yaftpd
-Yet another FTP server (with boost.asio)
+Yet another FTP server (developed with boost.asio)
